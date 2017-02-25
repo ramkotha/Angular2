@@ -47,3 +47,4 @@ Now you can start the TypeScript compiler in watch mode and run lite-server with
 - [reddit](https://www.reddit.com/r/thenewboston/)
 - [Donate](https://www.patreon.com/thenewboston)
 # Angular2
+# Angular2
